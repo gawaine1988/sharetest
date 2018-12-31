@@ -1,7 +1,10 @@
 
 c1
 c2
+<<<<<<< HEAD
 c5
 c6
+=======
+>>>>>>> testcherry
 c3
 c4
